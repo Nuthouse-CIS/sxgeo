@@ -1,8 +1,8 @@
 {
   "name": "nuthouse-cis/sxgeo",
-  "description": "description",
-  "minimum-stability": "stable",
-  "license": "proprietary",
+  "description": "PHP library Sypex Geo API (http://sypexgeo.net)",
+  "license": "BSD 3-Clause",
+  "keywords": ["ip", "location", "sypexgeo", "sxgeo"],
   "authors": [
     {
       "name": "Ivan Batianov",
